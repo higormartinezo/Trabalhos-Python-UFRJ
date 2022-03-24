@@ -6,3 +6,4 @@ Este repositório contém os códigos implementados para os trabalhos da discipl
 
 *labB*: O código implementado trabalha com a criação de classes. 
 
+*labC*: Trabalha com tratamento de erros e exceções em códigos implementados para retornar o valor absoluto de um número, índice de um certo elemento numa lista e o inverso de elementos de uma lista. 
