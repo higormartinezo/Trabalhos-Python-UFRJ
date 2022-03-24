@@ -1,4 +1,4 @@
-# Computa-o-UFRJ-Trabalhos
+# Computação-UFRJ-Trabalhos
 
 Este repositório contém os códigos implementados para os trabalhos da disciplina de Computação II da UFRJ. 
 
